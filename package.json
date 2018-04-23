@@ -1,0 +1,19 @@
+{
+  "name": "entity-manager-api",
+  "version": "0.0.1",
+  "description": "EntityManagerMongo API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagucc/entity-manager-api.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nagucc/entity-manager-api/issues"
+  },
+  "homepage": "https://github.com/nagucc/entity-manager-api#readme"
+}

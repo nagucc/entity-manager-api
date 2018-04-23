@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/nagucc/entity-manager-api#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
     "express": "^4.16.3"
   }
 }
